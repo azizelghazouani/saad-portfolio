@@ -31,65 +31,7 @@ const skillsSection = {
   /* Make Sure You include correct Font Awesome Classname to view your icon */
   /* https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "Vuejs",
-      fontAwesomeClassname: "fab fa-vuejs"
-    },
-    {
-      skillName: "Nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "Yarn",
-      fontAwesomeClassname: "fab fa-yarn"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "Docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel"
-    },
-    {
-      skillName: "Python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "MySQL",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "HTML 5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS 3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "SASS",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-  ]
-};
+  
 
 const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
